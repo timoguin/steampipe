@@ -1,0 +1,10 @@
+*
+!/go.mod
+!/go.sum
+!/Makefile
+!/README.md
+!/cmd
+!/main.go
+!/pkg
+!/scripts
+!/tests
